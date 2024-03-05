@@ -91,5 +91,5 @@ def main():
     plot_world_map(countries)
 
 
-if _name_ == "_main_":
+if __name__ == "__main__":
     main()
